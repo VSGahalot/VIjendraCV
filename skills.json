@@ -1,0 +1,19 @@
+[{
+        "name": "VMware",
+        "icon": "https://img.icons8.com/?size=100&id=sFFBQN8kzSOS&format=png&color=000000"
+    },
+
+    {
+        "name": "Windows Servers",
+        "icon": "https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000"
+    },
+    {
+        "name": "Linux Servers",
+        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
+    },
+
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    }
+]
